@@ -17,6 +17,6 @@
 	"setting.defaultres"		"1280"
 	"setting.defaultresheight"		"720"
 	"setting.aspectratiomode"		"0"
-	"setting.fullscreen"		"0"
+	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"1"
 }
