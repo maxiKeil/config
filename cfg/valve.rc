@@ -5,7 +5,7 @@ exec default.cfg
 exec joystick.cfg
 
 // run a user script file if present
-exec autoexec.cfg
+exec moeter_settings.cfg
 
 //
 // stuff command line statements
